@@ -1,0 +1,16 @@
+{
+    "name": "capangas/touchfic",
+    "description": "Site de publicação de fanfics",
+    "autoload": {
+        "psr-4": {
+            "Capangas\\Touchfic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mosiah Adam",
+            "email": "90357785+akemi-adam@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
